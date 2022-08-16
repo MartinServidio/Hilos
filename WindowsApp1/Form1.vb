@@ -22,14 +22,12 @@ Public Class Formulario1
     Private Sub Form1_Activated(sender As Object, e As EventArgs) Handles MyBase.Activated
         Me.Show()
         Dim parar As Integer
-        Do While parar < 1000
+        Do While parar < 100000
             Me.Label1.Text = parar.ToString()
             parar = parar + 1
         Loop
-        Form2.Show()
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
         Me.Close()
     End Sub
 

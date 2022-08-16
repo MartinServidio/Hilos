@@ -36,4 +36,4 @@ D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreC
 D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.exe
 D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.xml
 D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.pdb
-D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Tareas 2022\Actividad-1-master\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
